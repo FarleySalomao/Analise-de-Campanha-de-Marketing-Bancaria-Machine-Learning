@@ -41,7 +41,7 @@ VI.Análise da relação entre a variável alvo e as outras variáveis numérica
 
 <b>E. Conclusões</b><br>
 
-E. Conclusões
+<h1>Conclusões</h1>
 Segundo as análises realizadas neste estudo, recomendamos que futuras campanhas de marketing sejam focadas nos seguintes publicos:
 
 a) Clientes que já aceitaram propostas em campanhas de marketing anteriores.
