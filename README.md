@@ -19,3 +19,24 @@ Um depósito bancário a termo é um acordo em que o depositante concorda em dei
 Cada entrada neste banco de dados se refere a um cliente que foi contactado pela campanha de marketing, e inclui informações acerca das características pessoais do cliente, informações relacionadas a campanha e a resposta final do cliente de aceite ou recusa da oferta do produto (contrato de depósito a termo).
 
 O objetivo mais específico deste estudo será utilizar técnicas de machine learning para construir um modelo de previsão da chance de sucesso da campanha de marketing, e identificar quais fatores mais afetam esta chance. 
+
+<h2>Sumário</h2>: <br>
+<b>A. Descrição Dos Dados</b><br>
+I.Dados de características do cliente.<br>
+II.Dados relacionados ao ultimo contato.<br>
+III.Outras variáveis.<br>
+IV.Variável alvo.<br>
+
+<b>B. Análise Exploratória Dos Dados</b><br>
+I.Análise das variáveis numéricas<br>
+II.Outliers (identificação e tratamento)<br>
+III.Análise das variáveis categóricas<br>
+IV.Análise da variável alvo<br>
+V.Análise da relação entre a variável alvo e as outras variáveis categóricas<br>
+VI.Análise da relação entre a variável alvo e as outras variáveis numéricas<br>
+
+<b>C. Limpeza Dos Dados</b><br>
+
+<b>D. Modelo de Machine Learning</b><br>
+
+<b>E. Conclusões</b><br>
