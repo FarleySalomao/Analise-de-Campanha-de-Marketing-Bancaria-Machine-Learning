@@ -21,6 +21,7 @@ Cada entrada neste banco de dados se refere a um cliente que foi contactado pela
 O objetivo mais específico deste estudo será utilizar técnicas de machine learning para construir um modelo de previsão da chance de sucesso da campanha de marketing, e identificar quais fatores mais afetam esta chance. 
 
 <h2>Sumário</h2>: <br>
+
 <b>A. Descrição Dos Dados</b><br>
 I.Dados de características do cliente.<br>
 II.Dados relacionados ao ultimo contato.<br>
