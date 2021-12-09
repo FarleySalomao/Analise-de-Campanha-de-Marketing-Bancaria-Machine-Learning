@@ -20,8 +20,7 @@ Cada entrada neste banco de dados se refere a um cliente que foi contactado pela
 
 O objetivo mais específico deste estudo será utilizar técnicas de machine learning para construir um modelo de previsão da chance de sucesso da campanha de marketing, e identificar quais fatores mais afetam esta chance. 
 
-<h2>Sumário</h2>: <br>
-
+<h2>Sumário</h2><br>
 <b>A. Descrição Dos Dados</b><br>
 I.Dados de características do cliente.<br>
 II.Dados relacionados ao ultimo contato.<br>
@@ -41,3 +40,16 @@ VI.Análise da relação entre a variável alvo e as outras variáveis numérica
 <b>D. Modelo de Machine Learning</b><br>
 
 <b>E. Conclusões</b><br>
+
+E. Conclusões
+Segundo as análises realizadas neste estudo, recomendamos que futuras campanhas de marketing sejam focadas nos seguintes publicos:
+
+a) Clientes que já aceitaram propostas em campanhas de marketing anteriores.
+
+b) Clientes que não possuem empréstimo imobiliário.
+
+c) Estudantes.
+
+d) Clientes com idade inferior a 28 anos e superior a 61 anos.
+
+e) Clientes com saldo bancário superior a 1356$.
