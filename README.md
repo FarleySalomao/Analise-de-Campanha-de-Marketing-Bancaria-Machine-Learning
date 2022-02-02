@@ -1,5 +1,4 @@
 # Análise de Campanha de Marketing Bancária ( com aplicação de algoritmo de machine learning )
-Este é meu primeiro projeto de data science, meu objetivo com este estudo é desenvolver minhas habilidades de aplicação de técnicas de análise exploratória de dados e de algoritmos de machine learning.
 
 <h1>Introdução</h1>
 A análise dos dados de marketing de uma organização é uma das aplicações mais típicas da ciência de dados. Campanhas de marketing tem como objetivo informar e criar valor para satisfazer as necessidades de um público-alvo, que por sua vez retribuem a organização com a aquisição de seus produtos e consequente geração de receita. 
